@@ -1,4 +1,8 @@
 int main();
 SHEHUI
+<<<<<<< HEAD
 mux2 fix
 
+=======
+MUX1
+>>>>>>> 30bf7180f5933489167a638573ad9953b7afcb05
