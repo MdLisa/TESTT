@@ -1,5 +1,11 @@
 int main();
+
 SEHUI
 
 
 MUX3
+mux2 fix
+
+
+MUX1
+
